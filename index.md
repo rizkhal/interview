@@ -67,9 +67,9 @@ We also write better technical documentation
 
 ::right::
 
-<img src="./public/docs/landing.png" width="720" height="720" />
+<img src="docs/landing.png" width="720" height="720" />
 <div style="height: 5px;"></div>
-<img src="./public/docs/install.png" width="720" height="720" />
+<img src="docs/install.png" width="720" height="720" />
 
 ---
 layout: intro
