@@ -1,0 +1,57 @@
+{
+  "name": "slidev-theme-penguin",
+  "version": "2.1.0",
+  "description": "A Penguin theme for Slidev",
+  "author": {
+    "name": "Rizkal Lamaau",
+    "email": "lamaaurizkhal@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://rizkal.lamaau.space",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizkhal/interview.git"
+  },
+  "bugs": "https://github.com/rizkhal/interviewues",
+  "keywords": [
+    "slidev-theme",
+    "slidev",
+    "slidev-penguin"
+  ],
+  "slidev": {
+    "colorSchema": "both",
+    "highlighter": "shiki",
+    "default": {
+      "aspectRatio": "16/9",
+      "fonts": {
+        "sans": "Inter",
+        "title": "Gilroy",
+        "mono": "Fira Code"
+      }
+    }
+  },
+  "scripts": {
+    "dev": "slidev index.md --open",
+    "build": "slidev build index.md",
+    "export": "slidev export index.md",
+    "screenshot": "slidev export index.md --format png"
+  },
+  "dependencies": {
+    "@alvarosabu/ui": "3.0.0-alpha.13",
+    "@slidev/types": "^0.42.8",
+    "prism-theme-vars": "^0.2.4",
+    "vite-svg-loader": "^4.0.0"
+  },
+  "devDependencies": {
+    "@alvarosabu/eslint-config-vue": "^0.4.0",
+    "@iconify-json/la": "^1.1.5",
+    "@iconify-json/logos": "^1.1.34",
+    "@iconify-json/simple-icons": "^1.1.66",
+    "@slidev/cli": "0.42.5",
+    "playwright-chromium": "^1.37.0",
+    "sass": "^1.65.1"
+  },
+  "resolutions": {
+    "@vitejs/plugin-vue": "4.3.1"
+  }
+}
