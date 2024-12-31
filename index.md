@@ -27,7 +27,7 @@ presenterImage: './image.png'
 
 # Rizkal Lamaau
 
-- 📌 Flores, Indonesia
+- 📌 Ternate, Indonesia
 - 🌏 Web Developer Since 2019
 - 📱 Mobile Developer Since 2020
 
@@ -91,7 +91,7 @@ Saya juga menulis dokumentasi teknis
 <br />
 <br />
 <br />
-<img src="docs/landing.png" width="720" height="720" />
+<img src="./docs/landing.png" width="720" height="720" />
 
 ---
 layout: intro
