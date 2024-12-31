@@ -22,14 +22,34 @@ layout: presenter
 twitter: '@rixzkl'
 
 twitterUrl: 'https://twitter.com/rixzkl'
-presenterImage: './public/image.png'
+presenterImage: './image.png'
 ---
 
 # Rizkal Lamaau
 
-- Flores, Indonesia
-- Web Developer Since 2019
-- Mobile Developer Since 2020
+- 📌 Flores, Indonesia
+- 🌏 Web Developer Since 2019
+- 📱 Mobile Developer Since 2020
+
+---
+layout: two-cols
+---
+
+<br>
+
+# Responsibilities
+- Memastikan antarmuka pengguna berfugsi dengan baik lintas platform
+- Memastikan antarmuka pengguna berfungsi lintas device
+- Memastikan antarmuka pengguna responsive dan fleksibel
+- Memastikan kode sumber antarmuka pengguna terdokumentasi
+- Memastikan mobile app berfungsi lintas versi android
+
+::right::
+
+<br /><br />
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGp2c2I4eDJ0cXBraGlhODVoOHd4dHpzejN5ajBsdmNpZHRhMW1tNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hr4lb25LhlQLIUWRO7/giphy.webp" width="300" height="300" />
+
 
 ---
 layout: two-cols
@@ -41,7 +61,7 @@ layout: two-cols
 - Tanya Data
 - Halo PSDKP
 - Sadar GAKKUM
-- Laporak Kegiatan Usaha
+- Laporan Kegiatan Usaha
 - Pengawasan Berbasis Risiko
 
 ::right::
@@ -58,18 +78,20 @@ layout: two-cols
 
 # FrontEnd Documentation
 
-We also write better technical documentation
-- How to install
-- How to maintenance
-- How to backup
-- How to deploy
-- And how many more
+Saya juga menulis dokumentasi teknis
+
+- Install
+- Maintenance
+- Backup
+- Deploy
+- Setup
 
 ::right::
 
+<br />
+<br />
+<br />
 <img src="docs/landing.png" width="720" height="720" />
-<div style="height: 5px;"></div>
-<img src="docs/install.png" width="720" height="720" />
 
 ---
 layout: intro
@@ -84,7 +106,7 @@ A goal without a plan is just a wish.
 ---
 layout: two-cols
 
-image: './public/mobile/filter.jpeg'
+image: './mobile/filter.jpeg'
 ---
 
 <br />
@@ -93,7 +115,8 @@ image: './public/mobile/filter.jpeg'
 # Vessel Search Enggine
 
 ## Search screen
-You can filter vessel based on the list below
+
+Anda dapat mencari berdasarkan beberapa parameter berikut
 
 - Nama Kapal
 - No Buku Kapal
@@ -107,7 +130,7 @@ You can filter vessel based on the list below
 ---
 layout: two-cols
 
-image: './public/mobile/profile.jpeg'
+image: './mobile/profile.jpeg'
 ---
 
 <br />
@@ -116,7 +139,8 @@ image: './public/mobile/profile.jpeg'
 # Vessel Search Enggine
 
 ## Profil
-We are integrated with a lot of API like
+
+Kami terintegrasi dengan berbagai platform, diantaranya
 
 - OSS
 - eSLO
@@ -127,7 +151,7 @@ We are integrated with a lot of API like
 ---
 layout: two-cols
 
-image: './public/mobile/trip.jpeg'
+image: './mobile/trip.jpeg'
 ---
 
 <br />
@@ -136,12 +160,13 @@ image: './public/mobile/trip.jpeg'
 # Vessel Search Enggine
 
 ## Trip
-One of our primary plan is made vessel search enggine. As our anlyzing result, this will help <b>"Pengawas Perikanan"</b> a lot
+
+Menampilkan riwayat perjalanan kapal dan hasil tangkapan, ini juga terintegrasi dengan SPKP untuk menampilkan indikasi pelanggaran
 
 ---
 layout: two-cols
 
-image: './public/mobile/foul.jpeg'
+image: './mobile/foul.jpeg'
 ---
 
 <br />
@@ -149,8 +174,9 @@ image: './public/mobile/foul.jpeg'
 
 # Vessel Search Enggine
 
-## Indication of violation
-We also set mark using data from SPKP. That's realtime from SPKP when have violation
+## Dugaan Pelanggaran
+
+Menggunakan platform Google Map untuk menampilkan lokasi indikasi pelanggaran
 
 ---
 layout: new-section
