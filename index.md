@@ -39,7 +39,6 @@ layout: two-cols
 
 # Responsibilities
 - Memastikan antarmuka pengguna berfugsi dengan baik lintas platform
-- Memastikan antarmuka pengguna berfungsi lintas device
 - Memastikan antarmuka pengguna responsive dan fleksibel
 - Memastikan kode sumber antarmuka pengguna terdokumentasi
 - Memastikan mobile app berfungsi lintas versi android
@@ -76,22 +75,23 @@ layout: two-cols
 <br />
 <br />
 
-# FrontEnd Documentation
+# Frontend Documentation
 
-Saya juga menulis dokumentasi teknis
+Saya juga menulis dokumentasi teknis, berikut ToC dari dokumentasi teknis yang saya tulis
 
-- Install
+- Installation
 - Maintenance
 - Backup
 - Deploy
 - Setup
+- Etc
 
 ::right::
 
 <br />
 <br />
 <br />
-<img src="./docs/landing.png" width="720" height="720" />
+<img src="/docs/landing.png" width="720" height="720" />
 
 ---
 layout: intro
@@ -116,7 +116,7 @@ image: './mobile/filter.jpeg'
 
 ## Search screen
 
-Anda dapat mencari berdasarkan beberapa parameter berikut
+Dapat mencari berdasarkan field parameter berikut
 
 - Nama Kapal
 - No Buku Kapal
@@ -140,7 +140,7 @@ image: './mobile/profile.jpeg'
 
 ## Profil
 
-Kami terintegrasi dengan berbagai platform, diantaranya
+Terintegrasi dengan berbagai platform, diantaranya
 
 - OSS
 - eSLO
@@ -176,13 +176,13 @@ image: './mobile/foul.jpeg'
 
 ## Dugaan Pelanggaran
 
-Menggunakan platform Google Map untuk menampilkan lokasi indikasi pelanggaran
+Menggunakan Google Map Engine untuk menampilkan lokasi indikasi pelanggaran. Didukung juga dengan fitur <b>"Vessel Nearby"</b> untuk melihat kapal disekitar
 
 ---
 layout: new-section
 class: 'grid text-center align-self-center justify-self-center'
 ---
 
-# Terima Kasih
+# Thank You ♥️
 
 [Download PDF](./slidev-exported.pdf)
